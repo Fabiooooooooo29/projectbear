@@ -5,30 +5,10 @@ chcp 65001 >nul
 :again 
 cls
 color 3
-title PROJECT BEAR 
-echo Made by Ak47 Paid Version
+title Cracked by Spinayy mate
+echo Cracked nibba
 echo.
-echo ██████╗██████╗  █████╗  ██████╗██╗  ██╗███████╗██████╗                     
-echo ██╔════╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗                    
-echo ██║     ██████╔╝███████║██║     █████╔╝ █████╗  ██║  ██║                    
-echo ██║     ██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║  ██║                    
-echo ╚██████╗██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██████╔╝                    
-echo ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝                     
-echo.                                                                            
-echo ██████╗ ██╗   ██╗    ███████╗██████╗ ██╗███╗   ██╗ █████╗ ██╗   ██╗██╗   ██╗
-echo ██╔══██╗╚██╗ ██╔╝    ██╔════╝██╔══██╗██║████╗  ██║██╔══██╗╚██╗ ██╔╝╚██╗ ██╔╝
-echo ██████╔╝ ╚████╔╝     ███████╗██████╔╝██║██╔██╗ ██║███████║ ╚████╔╝  ╚████╔╝ 
-echo ██╔══██╗  ╚██╔╝      ╚════██║██╔═══╝ ██║██║╚██╗██║██╔══██║  ╚██╔╝    ╚██╔╝  
-echo ██████╔╝   ██║       ███████║██║     ██║██║ ╚████║██║  ██║   ██║      ██║   
-echo ╚═════╝    ╚═╝       ╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝      ╚═╝ 
-echo.
-set /p user=Enter username:
-echo.
-set /p pass=Enter Password: 
-if %user% == cracked if %pass% == spinayy goto main
-echo Wrong Username or Password , try again...
-timeout 2 >nul
-goto again
+goto main
 :main
 cls
 echo.
